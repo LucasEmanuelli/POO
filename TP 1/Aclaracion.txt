@@ -1,0 +1,5 @@
+No llegue a hacer todos los ejercicios, mil disculpas.
+Sobre el ejercicio 5: Me resulto confuso si habia que hacer una lista o no
+asi que directamente implemente la lista de tareas en el 5 en vez de usar solo las
+tareas y con eso le hice los cambios para
+el 10. Cada ejercicio tiene un main propio.
